@@ -1,0 +1,14 @@
+# Supplements
+In elementary school, I repurposed my Sketchers shoe box as my “question box.” If I couldn’t figure something out in class, I would write down my question on a piece of paper and drop it in the box. Occasionally, I would dig in, pick a random question, and attempt to understand it. 
+
+I had always been afraid to ask for help because I feared being wrong, afraid of what others thought about me. Each question I kept to myself was another concept I didn’t understand and time spent trying to do so. In middle school, I resolved to change, beginning my war against my low self confidence. I joined the debate team to learn public speaking. When it was announced that we could run for school treasurer, I penned my name on the form. It was the perfect opportunity; we had to speak in front of the school. The laughter that erupted from my jokes while speaking about selling sparklers to fund Yu-Gi-Oh card packs encouraged me to continue fighting.
+
+The war continued in high school. I talked to people that sat next to me in classes and made friends outside of school. I began to raise my hand more in class, but was still afraid of being wrong and asking questions.
+
+This summer, I interned at the GRASP Lab at the University of Pennsylvania to research robotic manipulation and perception with Leon Kim, a graduate student. Within the first few weeks, I began to see how much I didn’t know. I didn’t know what a mass-spring-damper system was. I didn’t know how force-torque sensors worked. Each time, I would write a new sticky note. Each time, my questions would remain unanswered, as I still failed to understand after Googling. 
+
+During lunch and TGIF dinners, I listened as lab members discussed their research and recent developments. Adam and Alp explained problems they were facing trying to get the Franka Panda—a robotic arm—to roll a ball around in a circle. Junyao marveled at the pace of AI research, sharing how Google built another model, Parti, to convert text into images nearly a month after their Imagen model. I would come across esoteric words, acronyms, and concepts that were foreign to me. They would notice how I was confused, and would stop to ask what I was confused about. They encouraged me to be inquisitive, and I became more comfortable asking questions and asking for help. 
+
+On Wednesdays, I sat in on meetings where lab members would share their progress on their research, and others would ask questions. The presenter would answer, increasing the understanding of the listeners, and the presenter would consider factors and methods proposed by others. Week by week, I saw the power of asking questions—even “bad” questions. Each question sparked fruitful discussion and collaboration, leading to better understanding and new ideas.
+
+Asking questions is beneficial for both parties. I look forward to staying inquisitive at Harvard, refraining from keeping my questions as another sticky note.

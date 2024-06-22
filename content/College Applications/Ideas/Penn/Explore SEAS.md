@@ -1,0 +1,9 @@
+~~When I first set out to explore Penn's engineering complex, I had no idea I'd end up so completely and utterly lost. I've always been a bit directionally challenged, but this was a whole new level of disorientation (4th floor Levine connects to 3rd floor Towne!).~~  
+
+Starting at the GRASP Lab in room 403, I envision myself in the DAIR Lab group, working with Professor Michael Posa to continue my research on robotic manipulation to bring us closer to a future where robots can do work that humans do not want, specifically in the 3Ds: dirty, dull, and dangerous. I want to be a part of the collaborative environment where interdisciplinary research is emphasized to combine strengths of different disciplines to find innovative solutions.  
+
+As I wander the seemingly endless corridors, peering into labs filled with all sorts of mysterious machinery, I notice that the sense of community and collaboration wasn’t isolated in the GRASP Lab; it permeates every corner of SEAS, emphasized by the connection of the buildings. Each lab buzzed with activity as students and researchers from various disciplines collaborated on projects.
+
+~~Peering out the window, seeing students walking and the beautiful buildings on campus, I note that at Penn, I’m not isolated to SEAS; I can take classes in other schools. I can take LAWM 5060 at the Law School to study law and ethics of technology, FNAR 1110 to learn how art can be a tool for social change (and paint a mural, too!).~~
+
+I journey down the stairwell of Moore, wrapping up my self-guided tour, and catch a glimpse of the ENIAC sitting proudly in display, a testament to the university’s rich history in computer science. I can't help but feel a sense of excitement and possibility of contributing to the next chapter of Penn’s legacy of interdisciplinary collaboration and innovation.

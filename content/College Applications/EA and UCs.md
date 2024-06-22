@@ -1,0 +1,19 @@
+- [[UCs]]
+	- Berkeley - Rejected
+	- UCLA - Rejected
+	- UCSD - Rejected
+	- UCI - Waitlisted
+- [[Georgia Tech]] - Rejected (First Gen Pathway)
+- [[content/College Applications/Universities/MIT|MIT]] - Deferred -> Rejected
+- [[content/College Applications/Universities/UT Austin|UT Austin]] - Rejected
+- [[Northeastern]] - Deferred -> Rejected
+- [[Drexel]] - Accepted
+	- Honors - Accepted
+	- STAR - Rejected
+	- Liberty Scholars - Rejected
+- [[Penn State]] - Accepted
+	- Schryer's Honors College - Waitlist (Submitted 10 word supplemental LOL)
+- [[CWRU]] - Deferred -> Waitlist
+- [[Pitt]] - Accepted
+- [[Temple]] - Accepted
+- [[UNH]] - Accepted

@@ -1,0 +1,15 @@
+1. **Computer**. So useful. Play games. Watch movies (potentially ilegally). Program. Learn. Homework. Write. Talk with friends. Defines the 21st century. Actually, I think that belongs to smartphones. Used to use a shitty lifebook ah 531. Now not that expesnive, but it is my own. Built with my dad. Fucked up a screw. But we learn.
+2. **Fire outfits**. I like going out, checking myself out in the mirror. WOW THAT IS A FIRE FIT! Confidence. I had low confidence, learning how to dress better gave me more confidence to talk to new people, knowing that at least I look presentable. Professional. Minimal. Clean. I mess with athleisure too. Want to get into some techwear (not full tho). Brother hand-me downs were kinda ass (actually dont write about that.)
+4. **Photography**. Its so tactile. Changing shutter speed. Changing ISO. Changing f stop. Medium of art. Lets me express myself, show people my unique perspective and what I see in the world. Document the city, memories, friends. Take pictures of cool things. Geometry is aesthetic. Notice the lines. Framing devices. Leading lines. Shadows and light. Still so much to learn, but looking back, seeing how messy they used to be, filled wiht a bunch of subjects, missed opportunities to use the framing devices in a scene, shadows, etc. I love the quiet times. Going to Center City. Just me and my camera. Sounds of the city and my shutter snapping shut. Occasionally listening to the music. Listen to the sounds of the city. Indistinctive chatter. Selling on the street. Halal truck clanking of the thing to slice shit. Beeps of cars stuck in a traffic jam at Market Street. Door opening to Macy’s. Euphoric. Peace.
+5. **Basketball**. Me and the ball. Shooting. Track progress. 20/100 today. 21/100 the next. Improve. Sound of the ball pounding on the concrete or wood. Listening to music. Clear my mind. Reminder of my past of quitting. I will never quit now. Why do I play 2K? Always wanted to play basketball. Never good. Layup lines, could not make anything. Dribbling drills with cones. Every cone would be gone and they had to set it back up bc of me. Teammates laughed at me. I didn’t want to go anymore. I still wanted to play basketball though. 2K. What if I didn’t quit? I definitely wouldn’t be good, but I would be playing something I enjoyed.
+6. **Lamb over rice**. Halal Thursday for Robo! Cheap. 8 bucks. Delicious. Value the friendship with the dude. He knows my order. I switch up, he like “huh?” Our little conversations while hes making it. How’s school? How’s business? Anything coming up on the weekends? How you feeling? Drink is on me today when I’m down. Forget my wallet, he got me. 
+7. **Music. Kpop. RNB. Chill. Lofi**. Calming. Melodic. Nostalgic vibe. Feeling of peace. Background. Soft. Not aggressive. Homework. Walks. Running. Photography. Portrays who I am; chill, calm, sad :(
+9. **Running**. 
+11. **Design**
+12. **Walks, listening to music. Taking out earbuds. Listening to the world.**
+13. **Sunsets. Peaceful.**
+
+
+
+Track
+2nd place in heat (only 2 runners). 33 second 200! 

@@ -1,0 +1,27 @@
+- Girls
+- Friends
+	- Want to be around them. Join call, wanting someone to be there
+	- Afraid of being alone
+	- Hate being left out
+- Video Games
+	- A little too much
+	- Valorant, League, 2K
+- Running
+	- Can't run. I want to run. I imagine myself running fast, never can do it 
+- Photography
+	- I hate photos of me. I don't like the way I look
+- Rice, steak, lobster, mapo tofu
+- Music
+	- Spotify always playing
+- Technology
+	- Robots are sick af
+- Cars
+	- Looks
+- Money
+- Clothes and fashion
+- Basketball
+- Coke
+- Video editing
+- Videography
+- Bed
+- High grades

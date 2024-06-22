@@ -1,0 +1,12 @@
+Written in bold, comic sans font on the top of the handout, *What do you want to do in the future?* Balling the red crayon in my fist, my tongue out to my right, I wrote GARBAGE TRUCK DRIVER. In kindergarten, there was nothing I wanted more than to collect trash, throw it in the back of the dump truck, and press the lever, causing the truck to roar loudly as it crushed everything.
+
+My dad further fueled my dream to be a public sanitation worker; he got me a Tonka Mighty Motorized Garbage Truck. It quickly became my favorite toy, overshadowing the train set which I spent nearly a year with. I loved pushing Dumpie around the wooden floor, holding the lever to lift up the power arm to throw whatever object I would imagine to be trash in the back. I was fascinated by how it could lift up. One day, as I was pretending that it was an airplane, lifting it high in the air as I ran around the room, I dropped Dumpie. I watched in horror as it came crashing towards the ground and broke in front of my eyes. Without hesitation, I rushed to her aid. After a few minutes of tinkering, I got the arm to go back in place. I felt like a genius. If Ms. Laurence had given me the sheet right then, I would’ve wrote down in my terrible handwriting BOB THE BUILDER.
+
+This year, I had the privilege of interning at the GRASP lab, working in the frontlines of robotics research. I met so many brilliant people who became my lab mates. I witnessed first hand the interdisciplinary of technology that was further emphasized by the connection of the engineering buildings. SEAS offers a level of collaboration that is not present anywhere else. At the GRASP lab, I'm able to not just ask my mentor for help, but the other people in the lab. Everyone is curious and driven, and eager to share their new findings. 
+
+The history of Penn sets it apart. Being the first university, it has so much history, with the ENIAC—the first general purpose computer—located in the Moore building. There is a culture that has accumulated over time of ingenuity and innovation. 
+
+I want to take advantage of the collaborative nature of SEAS, reaching out to others who are more skilled in areas where I struggle for help. During my internship, I’ve developed an interest in robotic manipulation, an area that Penn is actively researching, through the DAIR Lab and PAL Group. I would love to be able to return as an intern at GRASP for my undergrad, and continue to explore the field of robotics.
+
+
+

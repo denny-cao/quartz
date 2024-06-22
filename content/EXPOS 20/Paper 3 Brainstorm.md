@@ -1,0 +1,19 @@
+- What does Weathering With You offer about the passing of the issue down to future generations?
+	- View mentions of the past... 
+	- Dead come back from the sky in Obon in August... Can't with rain...  (00:45:00)
+	- Mention of another world in the sky
+	- Flying fish in the sky and a dragon 
+	- "Fixing the weather is the Weather Maiden's job" (Forcing job onto her... Maybe something worth exploring is the fact that it is a maiden rather than a man... )
+	- "Weather changes on a whim, regardless of human needs" (00:46:50)
+	- "Only allowed to stay temporarily in the space between the sky and earth, clinging hard not to be shaken off"
+	- "Used to know this in the past"
+	- "Thin thread linking us humans and the sky... The Weather Maiden"
+	- "Special girl who can take in people's wishes and deliver them to the sky."
+	- "Everything comes at a price. After all, tragic fate awaits the "Weather Maiden""
+	- Maybe explore why the dude initially rats him out and then sides with Hodaka....
+	- "I just want to grow up quickly" (00:55:01).
+		- Can't do anything as a child? Like no agency? Adults have power over? 
+	- Maybe explore how she became the weather maiden... (00:58:00)
+	- Police come (00:59:00)
+	- Its time to grow up. Placing the issue on Hodaka and not considering what he wants (1:00:00). 
+	- Children have no agency to make decisions for the climate and forced down the path that older generation places on them 

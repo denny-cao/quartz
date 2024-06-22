@@ -1,0 +1,93 @@
+---
+tags:
+  - psychotherapy
+---
+
+- Goal: Change sexual orientation or gender identity
+- Method:
+	- Aversion, behavioral, exposure (nausea inducing drugs, electric shock)
+	- Historically: Chemical castration (Alan Turing)
+- Discredited: Ineffective, cannot change orientation
+	- Harmful (suicide, depression)
+	- Seen as torture
+- Banned by many countries, but still legal in many (US not all states)
+# Psychotherapy on Homosexuality
+- Area of controversy from the start
+	- Today: Not among professionals but in public discussion
+	- Question: Inherited or acquired
+## Freud
+- Doesn't want to separate homosexuals from everyone else; they are the same
+- Human beings are capable of making a homosexual object-choice and have in fact made one in their unconscious
+- Petitioned on behalf of civil rights of homosexuals
+- Deep curiousity; Leonardo, Michelangelo, philosophers, etc
+- Homosexuals have "accomplished great things" singly and in groups
+- Terms "homosocial" and "heterosocial" by J. P. Flugel arguing for superoirity of male comradership over the family and female comapny (both opposed to the work of civilization by J. P. Flugel arguing for superoirity of male comradership over the family and female comapny (both opposed to the work of civilization by J. P. Flugel arguing for superoirity of male comradership over the family and female comapny (both opposed to the work of civilization by J. P. Flugel arguing for superoirity of male comradership over the family and female comapny (both opposed to the work of civilization)
+- "Homosexuality is assuredly no advantage, but it is nothing to be ashmaed of, no vice, no degradation it cannot be classified as illness; variation of the sexual function, produced by a ceratin arrest of sexual develpment" (Freud)
+- "What analysis can do for your son runs on a different line"; will not change him.
+- On the otehrhand:
+	- Fixation to woman (usually mother), leaving this, identify themselves with a woman and take themsllves as their sexual object. Their compulsive longing for men has turned out to be determeined by their ceaseless flight from women
+- Arrested Development: Homosexuals only capable of loving themselves
+# Sexology
+- Scientific study of human sexual behavior
+	- Focus on varieties and pathologies
+	- Inborn/constitutional or acquired
+	- Huge tomes case reports and, later, surveys of behavior
+- Origins in late C19
+	- Growth of capitalism: People congregate in large cities, away from ties and oversight of family and community, and take advantage of new opportunities for self-expression
+	- Form themselves into homosexual communities in large (and small) cities in late C19 and early C20
+	- Capitalism frees the individual
+- Havelock Ellis: Sexual Inversion (1897)
+	- First English language medical publication on homosexuality
+	- "Invests" normal gender characteristics inverted
+	- "Sexual instinct turned by inborn constitutional abnormality toward persons of the same sex"
+- Preserve erotica:
+	- For a number of reasons, the "Inferno" is used to shelter the erotic literature. Preservation is also a paramount consideration here. According to Haynes, studies like Freud's "interpretation of Dreams" and Havelock Ellis' "Psychology of Sex" are kept locked up because "the Library was continually losing these looks"
+## Sexological Principles
+- Curiosity, lack of overt moralism
+- Normative, but homosexuality not a disease or crime
+- Interested in variation
+- German sexologists:
+	- Pioneered studies of transsexuals
+	- Institute for Sexology Berlin 119
+	- Destroyed by Nazis in 1933
+- Alfred Kinsey:
+	- Unit of measure: Outlets to orgasm, did not matter how
+	- Empirical, not theoretical
+	- Data: Outlets
+	- Interviews: Adult white male population
+	- Sexual behavior not dichotomous by arrayed on a scale
+	- Kinsey Scale of Sexual Behavior: 0 is hereto, 6 is homo 
+		- Measured based on surveys
+	- Prevalence
+		- 37% males had orgasm with another man, between adolescence and old age
+		- 10% exclusively homosexual, for 3 years or more between ages 11 and 55
+		- Data: No longer could homosexuality be considered pathological
+			- Statistical normality could not be psychologically abnormal
+		- Normalization: 1948, from Kinsey archives
+	- 1972 Depathologized: Homosexuality no longer a mental disorder
+	- Backlash: NARTH
+		- Reparative therapy: Aims to change persons' sexual orientation from gay to straight
+			- Psychotherapy, electric shock, drugs, aversive conditioning
+			- "Camps" for youth
+	- Nicolosi tenets:
+		- Therapists as "benevolent provacateur"
+		- Father-son model
+		- Homosexuals suffer from "male gender-identity deficit"
+			- Intense sense of incompleteness of one's own maleness
+			- We eroticize what we are not identified with
+			- Mothers have been overly intimate with sons
+			- Fathers have been underinvolved
+			- Masculine deficit projected onto idealized males
+			- Cure through "close intimate, non-sexual male friendships"
+	- "Sissy Boy" Experiment
+		- Little boy enrolled making feminine boy more masculine placed in experimental therapy
+		- Kirk: Broken; he was different
+		- Mother was concerned with playing w/girl toys
+		- Placed in room with 2 tables: Given toys to play with. Masculine ones or feminines. Choose clothing: Dress, or army
+		- Mother ignore when chose feminine, compliment when chose masculine
+		- Kirk begged attention, crying, tantrums when she ignores her
+		- Continued in home: Poker chips, awarded when masculine. Blue chips: Masculine behavior. Red chips: Feminine behavior.
+		- Red chips -> Physical punishment from father
+		- Personality changed: Became what they wanted them to be. No idea how to relate to people, ate his lunch in boy's bathroom so he didn't need to be with others
+		- Acknowledged gay, but forced himself to not be in a relationship
+		- Hung himself

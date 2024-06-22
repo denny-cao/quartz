@@ -1,0 +1,5 @@
+_**I placed second in the advanced team contest in the annual UPenn Math Contest.**_ Working together with friends has solidified the importance of collaboration; in my weak areas, my teammates provided insight, and in theirs, I contributed my own to create solutions we may not have achieved alone. I applied some topics in number theory, combinatorics, and set theory covered in my discrete mathematics course such as the Chinese remainder theorem, and from my teammates, I now know Bezout's theorem! It was a great experience to meet people even outside of Philadelphia who enjoy mathematics, discussing the problems after the contest. I’m looking forward to getting involved with the Penn Math Contest Club to share my experience with high schoolers.
+
+**Our team for the MathWorks Math Modeling (M3) Challenge has been selected to move onto the second round of judging (168 teams out of 650).** Finalists will be announced on March 27.
+
+**Through the Wharton pre-baccalaureate program, I am also taking FNCE 0002: Essentials of Personal Finance.**

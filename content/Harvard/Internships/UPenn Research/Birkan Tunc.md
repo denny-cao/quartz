@@ -1,0 +1,14 @@
+# Contact
+[http://www.birkantunc.com](http://www.birkantunc.com/)
+tuncbi@upenn.edu
+## Mentor Areas
+
+Our team is a part of the Center for Autism Research at Children’s Hospital of Philadelphia and the Department of Psychiatry at the University of Pennsylvania. Our research lies at the interface of computer vision, machine learning, human psychology, and psychiatric disorders to better understand the nature of mental health conditions. We develop computational methodologies to accurately capture and quantify human behavior such as facial expressions, speech, head movements, gesture, and body actions. We then apply our tools to characterize behavioral variations in typically developing individuals and in mental health conditions such as autism spectrum disorders (ASD), anxiety, depression, and ADHD. Current research projects include development of novel computational tools to quantify human facial and bodily behavior using computer vision and machine learning, development of machine learning models to study links between observed behavior and underlying neurobiological mechanisms, and development of statistical analysis approaches to study heterogeneity in mental health conditions by fusing behavioral and biological data.
+
+## Description:
+
+We are developing an open-source web application platform for behavioral data (video, audio, heart rate, etc.) collection and annotation. We are looking for team members who can help us with expanding its capabilities. This platform is intended to be used by researchers in engineering, behavioral, and social sciences to annotate/process data in computational psychology and psychiatry studies. Thus, the project is beyond a simple web programming task. You will have lots of opportunities to learn about human behavior and its impairments. Our research is highly interdisciplinary. We look for researchers with good web programming skills and interests in engineering, psychology, psychiatry, or a related field.
+
+## Preferred Qualifications
+
+This specific project requires good web programming skills, specifically in **Python + Django** server-side development, and basic skills in database management (SQL). A basic understanding of PHP is a plus (not a must) since the current version of the app is written purely in PHP, and we like to translate it to Python. We are also open to enthusiastic individuals who does not have much experience with Django but have a solid and strong foundation in Python and HTML + CSS + JavaScript and eager to learn Django very quickly (you should be able to learn basics yourself in just couple of weeks).

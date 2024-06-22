@@ -1,0 +1,16 @@
+- [[content/College Applications/Universities/Harvard|Harvard]] - Accepted 
+- [[content/College Applications/Universities/Yale|Yale]] - Accepted
+- [[content/College Applications/Universities/CMU|CMU]] - Accepted
+- [[content/College Applications/Universities/Penn|Penn]] - Accepted
+- [[Princeton]] - Waitlisted
+- [[Columbia]] - Waitlisted
+- [[content/College Applications/Universities/Cornell|Cornell]] - Waitlisted
+- [[content/College Applications/Universities/Caltech|Caltech]] - Waitlisted
+- [[content/College Applications/Universities/Stanford|Stanford]] - Rejected
+- [[Purdue]] - Rejected
+- [[Duke]] - Rejected
+- [[RPI]] - Accepted
+- [[UMass Amherst]] - Accepted
+- [[FSU]] - Accepted
+
+- [[Boston University]] - Did not apply

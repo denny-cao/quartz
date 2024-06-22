@@ -1,0 +1,58 @@
+---
+tags:
+  - psychotherapy
+  - landing
+---
+
+**Professor:** Elizabeth Lunbeck (she/her) lunbeck@fas.harvard.edu
+**Office hours:** Wednesday 2:30-4pm, SC 365 (and by appointment)
+**Section Leader:** [[Allison Bolles]]
+
+[[Psychoanalysis]]
+- [[Psychoanalysis - The Impossible Profession (Malcolm)]]
+- [[Some Implicit Common Factors in Diverse Methods of Psychotherapy (Rosenzweig)]]
+- [["Step Two" - Relationship and the Magic of Words]]
+[[Psychodynamic Psychotherapy]]
+- [[The Efficacy of Psychodynamic Psychotherapy (Shedler)]]
+- [[15 Psychoanalytic Concepts for Our Time (Shedler)]]
+- [[Maybe You Should Talk to Someone (Gottlieb)]]
+[[Section PPT]]
+[[Behaviorism]]
+[[Cognitive Behavioral Therapy (CBT)]]
+[[Dialectical Behavioral Therapy]]
+[[Section CBT and DBT]]
+[[Section MBT]]
+[[Section - Family Systems]]
+- [[Group - How One Therapist and a Circle of Strangers Saved My Life (Tate)]]
+- [[The Theory and Practice of Group Therapy (Yalom)]]
+[[Section Group Therapy]]
+[[Self-Help, Organizations, and Leaders]]
+[[Race, class, gender in the therapeutic encounter—is therapy for everyone?]]
+- [[Racism - A challenge for the therapeutic dyad (Stoute 2020)]]
+- [[Making cross-racial therapy work (Chang and Berk 2009)]]
+- [[Race as an adaptive challenge - Working with diversity in the consulting room (Leary 2012)]]
+[[Race, Class, Gender, and Sexuality, Conversion Therapy]]
+- [[Race as an adaptive challenge - Working with diversity in the consulting room (Leary 2012)]]
+- [[Racism - A challenge for the therapeutic dyad (Stoute 2020)]]
+- [[Making cross-racial therapy work (Chang and Berk 2009)]]
+- [[Changing Medical Practice, Not Patients---Putting an End to Conversion Therapy (Steed Jr. et al. 2019)]]
+[[Section Cultural]]
+[[How are therapists trained? Guest Lecture by Lois Choi-Kain]]
+- [[The Gift of Therapy - An Open Letter to a New Generation of Therapists and Their Patients (Yalom 2009)]]
+- [[An African American’s becoming a psychoanalyst - Some personal reflections (Wyche 2012)]]
+[[Section - Therapists Speak]]
+[[Technology in Psychotherapy]]
+- [[The Man of Your Dreams for $300 (Singh-Kurtz 2023)]]
+- [[ELIZA---a computer program for the study of natural language communication between man and machine (Weizenbaum (1966)]]
+- [[Reclaiming Conversation (Turkle 2015)]]
+- [[An interview with a depressed and suicidal patient (Beck 1979)]]
+[[Therapist Platforms]]
+- [[The therapists using AI to make therapy better (Jee and Heaven)]]
+- [[Therapy Without Therapists (Last)]]
+- [[The Therapy-App Fantasy An overwhelming demand for counseling has spawned slickly marketed companies promising a service they cannot possibly provide (Fischer)]]
+- [[Therapy by App - A Clinical Psychologist Tries BetterHelp (Cohen)]]
+- [[These Teens Got Therapy. Then They Got Worse (Khazan)]]
+[[Section - Final]]
+[[Final Prep]]
+
+[[Paper 2 Brainstorm]]

@@ -1,0 +1,42 @@
+---
+tags:
+  - psychotherapy
+---
+
+- Freud: On telephones and how it would impact psychotherapy
+- Derrida: Emails has disrupted way we think about relationships with people
+- Technology is rich source of thinking for psychotherapy 
+	- Freud work of censor -> Model of mind. Self sensoring.
+	- Transference akin to action of stereotypic plates
+	- Cassette tape: Patient needed to rewind name to think about something she was thinking about
+	- Needle stuck in groove; children did not understand. Had to use metaphor of computer crashing
+- Maybe we are like instruments
+	- Analyzing instrument: Therapist's tool
+	- Ad hoc assembly: Referring to something between a metaphor and an entity; able to automatically conjure up in his own mind the perfect interpretation of what the patient was saying
+- Two dimensions in technology:
+	- As a metaphor: How to make concepts concrete
+	- As aspiration: To standardize and minimize the human factor in the therapist reduce variability across treaters
+- Hartmann: Theory that therapists are becoming like computers, just going through operations. Ego as apparatus, accurately adjusting to reality.
+## What is role of the "human" in psychotherapy
+- Is human limiting or enabling therapy
+- Essential or impediment?
+- Roots in psychoanalysis; non-human in PT
+## Weizenbaum
+- MIT: First computer chatbot, ELIZA. Simulated conversation between therapist and patient. 
+- One of fathers of modern AI
+- MAC time-sharing system, MIT
+	- Chose psychotherapy as site for chatbot because the need to be economical in time and storage. Very expensive; minimize information to put in computer. Psychotherapy: Did not have to know anything beyond what is said within the conversation.
+- Repeats, rephrases, asks for clarification  (Techniques of Person-Centered Therapy)
+- Attribution of knowledge to computer: Want to believe computer understood, not just strings of words. "Process not content"
+- Became dissenter; even among colleagues, believed they were talking to human agent
+	- Ethical issues around AI
+- Fraud, charlatanism
+- "A friend you could never have before"
+- Utopian or dystopian?
+	- Data collection possibilities limitless
+	- NYT: Illusion. 
+- Can computer fool people into think thinking they are human
+- People did not care Eliza was not human; just wanted someone to listen to them and understand them
+- Ellie: Virtual human. 
+	- Decision support tool. Not a therapist, and disclose the fact, but people will treat as if it is. Disclose more than to an actual human.
+- 
